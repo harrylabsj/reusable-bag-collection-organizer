@@ -1,0 +1,46 @@
+{
+  "slug": "reusable-bag-collection-organizer",
+  "name": "Reusable Bag Door-Station Organizer",
+  "version": "1.0.1",
+  "language": "en",
+  "license": "MIT-0",
+  "type": "prompt-flow",
+  "description": "Create a printable reusable bag collection map and weekly reset card that sorts existing bags by size, assigns safe door stations, and builds simple grab-and-return rules without requiring purchases.",
+  "category": "Home/Admin",
+  "tags": [
+    "home",
+    "organizing",
+    "entryway",
+    "routine",
+    "printable"
+  ],
+  "trigger_keywords": [
+    "reusable bag organizer",
+    "grocery bag station",
+    "bag clutter reset",
+    "entryway bag routine",
+    "shopping bag checklist",
+    "bag zone map",
+    "reusable tote storage",
+    "weekly bag reset card"
+  ],
+  "use_cases": [
+    "Create a safe door-station map for reusable shopping bags.",
+    "Sort bag clutter by size, purpose, and weekly use.",
+    "Build a printable weekly reset card for returning bags to their stations."
+  ],
+  "requires": {},
+  "requires_api": false,
+  "no_code_execution": true,
+  "hasExecutableCode": false,
+  "no_network": true,
+  "no_credentials": true,
+  "contentType": "document-only",
+  "project": "daily-50-skills-2026-05-08",
+  "safety_notes": [
+    "No purchases required; use current bags and existing safe storage spots first.",
+    "Keep storage out of stairs, hallways, door swing areas, exits, heat sources, and other unsafe walk paths.",
+    "Do not provide structural installation advice or recommend overloaded hooks or shelves.",
+    "Household organizing artifact only."
+  ]
+}
